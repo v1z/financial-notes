@@ -19,4 +19,4 @@
 
 ### Психология
 
-- ### [Про возраст и сложный процент [short]](https://github.com/v1z/financial-notes/blob/master/shorts/mine/age.md)
+- ### [Про возраст и сложный процент](https://github.com/v1z/financial-notes/blob/master/shorts/mine/age.md)
