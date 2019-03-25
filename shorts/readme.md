@@ -1,6 +1,10 @@
 ## Статьи / шортриды
 Здесь будут собраны статьи и заметки с различных ресурсов.
 
+### Отношения с банками
+
+- ### [Как выжать максимум из банковских продуктов (ХД)](http://hranidengi.ru/finansovaya-gramotnost-ot-hranidengi-vozmi-ot-banka-vsyo/)
+
 ### ИИС
 
 - ### [Про ИИС (ТЖ)](https://journal.tinkoff.ru/iis/)
