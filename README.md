@@ -7,6 +7,7 @@
 2. [Книги](https://github.com/v1z/financial-notes/blob/master/books/readme.md)
 3. [Интернет-ресурсы](https://github.com/v1z/financial-notes/blob/master/resources/readme.md)
 4. [Telegram каналы](https://github.com/v1z/financial-notes/blob/master/telegram/readme.md)
+5. [YouTube каналы](https://github.com/v1z/financial-notes/blob/master/youtube/readme.md)
 
 ## Feedback
 Если ты найдешь какую-либо ошибку - [создавай ишью](https://github.com/v1z/financial-notes/issues/new), а коли захочешь поделиться полезностями - [запиливай PR](https://github.com/v1z/financial-notes/compare), не робей!
